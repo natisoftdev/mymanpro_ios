@@ -1,1 +1,1 @@
-# mymanpro_ios
+# My ManPro - iOS
